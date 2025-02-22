@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @dispera-cs
-- 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning networking & botnets.
-- 📫 How to reach me on telegram.
--
-- t.me/dispera_cs
+- 👀 I’m interested in Red Teaming, Network Security and Risk Management
+- 📍 Based in Sydney, Australia
 
 <!---
 dispera-cs/dispera-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
