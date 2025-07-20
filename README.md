@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dispera-cs
-- 👀 I’m interested in Red Teaming, Network Security and Risk Management
+- 👋 Hi, I’m @silberberg11
+- 👀 I have a deep interest in Network Security, Physical Cybersecurity and Risk Management.
 - 📍 Based in Sydney, Australia
 
 <!---
