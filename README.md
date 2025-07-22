@@ -4,7 +4,7 @@
 
 ## About Me
 At 16, I’m building projects that merge cybersecurity, cognitive science, and engineering.  
-My goal is too understand how humans and systems can be hacked — and protected.
+My goal is to understand how humans and systems can be hacked — and protected.
 
 ## 📚 Past Projects
 - **USB Rubber Ducky Clone:** Built from a Raspberry Pi Pico, programmed to execute automated keystroke injection attacks for penetration testing.
@@ -14,6 +14,7 @@ My goal is too understand how humans and systems can be hacked — and protected
 ## 🔥 Future Builds
 - **Laser Microphone:** Designed and simulated a physical side-channel attack by capturing and analyzing sound vibrations from surfaces (e.g., windows) using laser reflection, demonstrating the vulnerabilities of acoustic signals in secure environments.
 - **Blog Website:** Going to upload my projects as a form of blogs!! Stay tuned.
+- **AI Powered Education Tools:** I plan on developing AI tools for the use of education.
 - more soon!
 
   ## 🌌 Fun Facts
