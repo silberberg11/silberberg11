@@ -19,5 +19,5 @@ My goal is to understand how humans and systems can be hacked — and protected.
 
   ## 🌌 Fun Facts
 - 🥋 Competing BJJ blue belt and NSW State Champion
-- I'm obsessed with cognitive science & how humans make bad decisions, alongside my deep passion for Network Security.
-- I love exploring deep advanced Mathematics concepts
+- I'm like cognitive science & how humans make bad decisions, alongside my deep passion for Network Security.
+- I like exploring deep advanced Mathematics concepts aswell as chemistry 
