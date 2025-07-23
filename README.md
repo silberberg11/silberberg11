@@ -3,7 +3,7 @@
 - 📍 Based in Sydney, Australia
 
 ## About Me
-At 16, I’m building projects that merge cybersecurity, cognitive science, and engineering.  
+I’m building projects that merge cybersecurity, cognitive science, and engineering.  
 My goal is to understand how humans and systems can be hacked — and protected.
 
 ## 📚 Past Projects
